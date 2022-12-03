@@ -1,0 +1,69 @@
+
+li a, .dropbtn{ display: block;
+                color: #663399;
+                text-align: center;
+                padding: 14px 24px;
+                text-decoration: none;
+              }
+
+
+li a:hover, .dropdown:hover .dropbtn{ background-color: white;
+                                    }
+li.dropdown{ display: block;
+           }
+}
+
+body {
+  font-family: "Lucida Grande";
+  background-color: #f1f1f1;
+  padding-left: 60px;
+  padding-right: 60px;
+
+}
+
+
+h2 {
+  color: #663399;
+}
+
+h4 {
+  color: #FF5733;
+  font-size: 40px;
+}
+
+h5 {
+  color: #0B5345;
+  font-size: 28px;
+}
+
+
+p{ font-size: 95%;
+   color: #992532;
+   line-height: 1.5;
+ }
+
+
+mark1 {
+
+  background-color:  #CECFD2;
+}
+
+body.hello {
+  min-height: 100%;
+   background-image: url(/Users/aseempatil/Downloads/portfolio.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center center;
+
+ }
+}
+
+h5{
+  color: #86BBF7;
+}
+
+.list li {
+  display: inline;
+  list-style: none;
+}
+
