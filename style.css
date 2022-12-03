@@ -50,7 +50,7 @@ mark1 {
 
 body.hello {
   min-height: 100%;
-   background-image: url(/Users/aseempatil/Downloads/portfolio.jpg);
+   background-image: url(portfolio.jpg);
    background-size: cover;
    background-repeat: no-repeat;
    background-position: center center;
